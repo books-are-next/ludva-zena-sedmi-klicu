@@ -51,54 +51,58 @@ tocBase:
       - link: zena_sedmi_klicu_008.html
         title: "I. ČÁST \_ZAHRADA"
         hiddenTitle: false
-      - link: zena_sedmi_klicu_009.html
-        title: Vlhký mramor
-        hiddenTitle: false
-      - link: zena_sedmi_klicu_010.html
-        title: Zahrada oka
-        hiddenTitle: false
-      - link: zena_sedmi_klicu_011.html
-        title: Biliárové koule
-        hiddenTitle: false
-      - link: zena_sedmi_klicu_012.html
-        title: Hroch
-        hiddenTitle: false
-      - link: zena_sedmi_klicu_013.html
-        title: Sedm pyramid světla
-        hiddenTitle: false
-      - link: zena_sedmi_klicu_014.html
-        title: Za vším je zahradník
-        hiddenTitle: false
+        children:
+          - link: zena_sedmi_klicu_009.html
+            title: Vlhký mramor
+            hiddenTitle: false
+          - link: zena_sedmi_klicu_010.html
+            title: Zahrada oka
+            hiddenTitle: false
+          - link: zena_sedmi_klicu_011.html
+            title: Biliárové koule
+            hiddenTitle: false
+          - link: zena_sedmi_klicu_012.html
+            title: Hroch
+            hiddenTitle: false
+          - link: zena_sedmi_klicu_013.html
+            title: Sedm pyramid světla
+            hiddenTitle: false
+          - link: zena_sedmi_klicu_014.html
+            title: Za vším je zahradník
+            hiddenTitle: false
+        listType: plain
       - link: zena_sedmi_klicu_015.html
         title: "II. ČÁST \_OKA"
         hiddenTitle: false
-      - link: zena_sedmi_klicu_016.html
-        title: Klíčnice
-        hiddenTitle: false
-      - link: zena_sedmi_klicu_017.html
-        title: 1. Pondělí
-        hiddenTitle: false
-      - link: zena_sedmi_klicu_018.html
-        title: 2. Úterý
-        hiddenTitle: false
-      - link: zena_sedmi_klicu_019.html
-        title: 3. Středa
-        hiddenTitle: false
-      - link: zena_sedmi_klicu_020.html
-        title: 4. Čtvrtek
-        hiddenTitle: false
-      - link: zena_sedmi_klicu_021.html
-        title: 5. Pátek
-        hiddenTitle: false
-      - link: zena_sedmi_klicu_022.html
-        title: 6. Sobota
-        hiddenTitle: false
-      - link: zena_sedmi_klicu_023.html
-        title: 7. Neděle
-        hiddenTitle: false
-      - link: zena_sedmi_klicu_024.html
-        title: Kouzlo
-        hiddenTitle: false
+        children:
+          - link: zena_sedmi_klicu_016.html
+            title: Klíčnice
+            hiddenTitle: false
+          - link: zena_sedmi_klicu_017.html
+            title: 1. Pondělí
+            hiddenTitle: false
+          - link: zena_sedmi_klicu_018.html
+            title: 2. Úterý
+            hiddenTitle: false
+          - link: zena_sedmi_klicu_019.html
+            title: 3. Středa
+            hiddenTitle: false
+          - link: zena_sedmi_klicu_020.html
+            title: 4. Čtvrtek
+            hiddenTitle: false
+          - link: zena_sedmi_klicu_021.html
+            title: 5. Pátek
+            hiddenTitle: false
+          - link: zena_sedmi_klicu_022.html
+            title: 6. Sobota
+            hiddenTitle: false
+          - link: zena_sedmi_klicu_023.html
+            title: 7. Neděle
+            hiddenTitle: false
+          - link: zena_sedmi_klicu_024.html
+            title: Kouzlo
+            hiddenTitle: false
+        listType: plain
     isSection: true
     listType: plain
 static:
