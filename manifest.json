@@ -1,0 +1,787 @@
+{
+  "preview": {
+    "isPreview": false
+  },
+  "title": "Žena sedmi klíčů",
+  "author": "Roman Ludva",
+  "publisher": "Městská knihovna v Praze",
+  "edition": "Beletrie",
+  "languageCode": "cs",
+  "root": "main",
+  "identifier": "ludva-zena-sedmi-klicu-618556b",
+  "revision": "618556b",
+  "readingOrder": [
+    "promo.html",
+    "zena_sedmi_klicu_005.html",
+    "zena_sedmi_klicu_006.html",
+    "zena_sedmi_klicu_007.html",
+    "zena_sedmi_klicu_008.html",
+    "zena_sedmi_klicu_009.html",
+    "zena_sedmi_klicu_010.html",
+    "zena_sedmi_klicu_011.html",
+    "zena_sedmi_klicu_012.html",
+    "zena_sedmi_klicu_013.html",
+    "zena_sedmi_klicu_014.html",
+    "zena_sedmi_klicu_015.html",
+    "zena_sedmi_klicu_016.html",
+    "zena_sedmi_klicu_017.html",
+    "zena_sedmi_klicu_018.html",
+    "zena_sedmi_klicu_019.html",
+    "zena_sedmi_klicu_020.html",
+    "zena_sedmi_klicu_021.html",
+    "zena_sedmi_klicu_022.html",
+    "zena_sedmi_klicu_023.html",
+    "zena_sedmi_klicu_024.html",
+    "about.html"
+  ],
+  "generatedAt": {
+    "date": "Tue Sep 27 2022 10:09:45 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1664273385092
+  },
+  "documents": [
+    {
+      "title": "Městská knihovna v Praze",
+      "file": "promo.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 0,
+      "prev": null,
+      "next": "zena_sedmi_klicu_005.html",
+      "toc": []
+    },
+    {
+      "title": "Žena sedmi klíčů",
+      "file": "zena_sedmi_klicu_005.html",
+      "words": 18,
+      "chars": 122,
+      "ideas": 3,
+      "role": "chapter",
+      "order": 1,
+      "prev": "promo.html",
+      "next": "zena_sedmi_klicu_006.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Žena sedmi klíčů",
+      "file": "zena_sedmi_klicu_006.html",
+      "words": 2,
+      "chars": 22,
+      "ideas": 1,
+      "role": "chapter",
+      "order": 2,
+      "prev": "zena_sedmi_klicu_005.html",
+      "next": "zena_sedmi_klicu_007.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Předmluva",
+      "file": "zena_sedmi_klicu_007.html",
+      "words": 3689,
+      "chars": 23146,
+      "ideas": 50,
+      "role": "chapter",
+      "order": 3,
+      "prev": "zena_sedmi_klicu_006.html",
+      "next": "zena_sedmi_klicu_008.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Předmluva",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "I. ČÁST  ZAHRADA",
+      "file": "zena_sedmi_klicu_008.html",
+      "words": 3,
+      "chars": 16,
+      "ideas": 1,
+      "role": "chapter",
+      "order": 4,
+      "prev": "zena_sedmi_klicu_007.html",
+      "next": "zena_sedmi_klicu_009.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "I. ČÁST  ZAHRADA",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Vlhký mramor",
+      "file": "zena_sedmi_klicu_009.html",
+      "words": 6405,
+      "chars": 39736,
+      "ideas": 169,
+      "role": "chapter",
+      "order": 5,
+      "prev": "zena_sedmi_klicu_008.html",
+      "next": "zena_sedmi_klicu_010.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Vlhký mramor",
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "1",
+              "id": "1",
+              "children": []
+            },
+            {
+              "index": 2,
+              "level": 2,
+              "name": "2",
+              "id": "2",
+              "children": []
+            },
+            {
+              "index": 3,
+              "level": 2,
+              "name": "3",
+              "id": "3",
+              "children": []
+            },
+            {
+              "index": 4,
+              "level": 2,
+              "name": "4",
+              "id": "4",
+              "children": []
+            },
+            {
+              "index": 5,
+              "level": 2,
+              "name": "5",
+              "id": "5",
+              "children": []
+            },
+            {
+              "index": 6,
+              "level": 2,
+              "name": "6",
+              "id": "6",
+              "children": []
+            },
+            {
+              "index": 7,
+              "level": 2,
+              "name": "7",
+              "id": "7",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Zahrada oka",
+      "file": "zena_sedmi_klicu_010.html",
+      "words": 12110,
+      "chars": 75632,
+      "ideas": 317,
+      "role": "chapter",
+      "order": 6,
+      "prev": "zena_sedmi_klicu_009.html",
+      "next": "zena_sedmi_klicu_011.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Zahrada oka",
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "1",
+              "id": "1",
+              "children": []
+            },
+            {
+              "index": 2,
+              "level": 2,
+              "name": "2",
+              "id": "2",
+              "children": []
+            },
+            {
+              "index": 3,
+              "level": 2,
+              "name": "3",
+              "id": "3",
+              "children": []
+            },
+            {
+              "index": 4,
+              "level": 2,
+              "name": "4",
+              "id": "4",
+              "children": []
+            },
+            {
+              "index": 5,
+              "level": 2,
+              "name": "5",
+              "id": "5",
+              "children": []
+            },
+            {
+              "index": 6,
+              "level": 2,
+              "name": "6",
+              "id": "6",
+              "children": []
+            },
+            {
+              "index": 7,
+              "level": 2,
+              "name": "7",
+              "id": "7",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Biliárové koule",
+      "file": "zena_sedmi_klicu_011.html",
+      "words": 12194,
+      "chars": 73777,
+      "ideas": 431,
+      "role": "chapter",
+      "order": 7,
+      "prev": "zena_sedmi_klicu_010.html",
+      "next": "zena_sedmi_klicu_012.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Biliárové koule",
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "1",
+              "id": "1",
+              "children": []
+            },
+            {
+              "index": 2,
+              "level": 2,
+              "name": "2",
+              "id": "2",
+              "children": []
+            },
+            {
+              "index": 3,
+              "level": 2,
+              "name": "3",
+              "id": "3",
+              "children": []
+            },
+            {
+              "index": 4,
+              "level": 2,
+              "name": "4",
+              "id": "4",
+              "children": []
+            },
+            {
+              "index": 5,
+              "level": 2,
+              "name": "5",
+              "id": "5",
+              "children": []
+            },
+            {
+              "index": 6,
+              "level": 2,
+              "name": "6",
+              "id": "6",
+              "children": []
+            },
+            {
+              "index": 7,
+              "level": 2,
+              "name": "7",
+              "id": "7",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Hroch",
+      "file": "zena_sedmi_klicu_012.html",
+      "words": 6578,
+      "chars": 41040,
+      "ideas": 291,
+      "role": "chapter",
+      "order": 8,
+      "prev": "zena_sedmi_klicu_011.html",
+      "next": "zena_sedmi_klicu_013.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Hroch",
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "1",
+              "id": "1",
+              "children": []
+            },
+            {
+              "index": 2,
+              "level": 2,
+              "name": "2",
+              "id": "2",
+              "children": []
+            },
+            {
+              "index": 3,
+              "level": 2,
+              "name": "3",
+              "id": "3",
+              "children": []
+            },
+            {
+              "index": 4,
+              "level": 2,
+              "name": "4",
+              "id": "4",
+              "children": []
+            },
+            {
+              "index": 5,
+              "level": 2,
+              "name": "5",
+              "id": "5",
+              "children": []
+            },
+            {
+              "index": 6,
+              "level": 2,
+              "name": "6",
+              "id": "6",
+              "children": []
+            },
+            {
+              "index": 7,
+              "level": 2,
+              "name": "7",
+              "id": "7",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Sedm pyramid světla",
+      "file": "zena_sedmi_klicu_013.html",
+      "words": 6420,
+      "chars": 39287,
+      "ideas": 259,
+      "role": "chapter",
+      "order": 9,
+      "prev": "zena_sedmi_klicu_012.html",
+      "next": "zena_sedmi_klicu_014.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Sedm pyramid světla",
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "1",
+              "id": "1",
+              "children": []
+            },
+            {
+              "index": 2,
+              "level": 2,
+              "name": "2",
+              "id": "2",
+              "children": []
+            },
+            {
+              "index": 3,
+              "level": 2,
+              "name": "3",
+              "id": "3",
+              "children": []
+            },
+            {
+              "index": 4,
+              "level": 2,
+              "name": "4",
+              "id": "4",
+              "children": []
+            },
+            {
+              "index": 5,
+              "level": 2,
+              "name": "5",
+              "id": "5",
+              "children": []
+            },
+            {
+              "index": 6,
+              "level": 2,
+              "name": "6",
+              "id": "6",
+              "children": []
+            },
+            {
+              "index": 7,
+              "level": 2,
+              "name": "7",
+              "id": "7",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Za vším je zahradník",
+      "file": "zena_sedmi_klicu_014.html",
+      "words": 3953,
+      "chars": 24875,
+      "ideas": 163,
+      "role": "chapter",
+      "order": 10,
+      "prev": "zena_sedmi_klicu_013.html",
+      "next": "zena_sedmi_klicu_015.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Za vším je zahradník",
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "1",
+              "id": "1",
+              "children": []
+            },
+            {
+              "index": 2,
+              "level": 2,
+              "name": "2",
+              "id": "2",
+              "children": []
+            },
+            {
+              "index": 3,
+              "level": 2,
+              "name": "3",
+              "id": "3",
+              "children": []
+            },
+            {
+              "index": 4,
+              "level": 2,
+              "name": "4",
+              "id": "4",
+              "children": []
+            },
+            {
+              "index": 5,
+              "level": 2,
+              "name": "5",
+              "id": "5",
+              "children": []
+            },
+            {
+              "index": 6,
+              "level": 2,
+              "name": "6",
+              "id": "6",
+              "children": []
+            },
+            {
+              "index": 7,
+              "level": 2,
+              "name": "7",
+              "id": "7",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "II. ČÁST  OKA",
+      "file": "zena_sedmi_klicu_015.html",
+      "words": 3,
+      "chars": 13,
+      "ideas": 1,
+      "role": "chapter",
+      "order": 11,
+      "prev": "zena_sedmi_klicu_014.html",
+      "next": "zena_sedmi_klicu_016.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "II. ČÁST  OKA",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Klíčnice",
+      "file": "zena_sedmi_klicu_016.html",
+      "words": 4678,
+      "chars": 29489,
+      "ideas": 177,
+      "role": "chapter",
+      "order": 12,
+      "prev": "zena_sedmi_klicu_015.html",
+      "next": "zena_sedmi_klicu_017.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Klíčnice",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "1. Pondělí",
+      "file": "zena_sedmi_klicu_017.html",
+      "words": 2570,
+      "chars": 16449,
+      "ideas": 83,
+      "role": "chapter",
+      "order": 13,
+      "prev": "zena_sedmi_klicu_016.html",
+      "next": "zena_sedmi_klicu_018.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "1. Pondělí",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "2. Úterý",
+      "file": "zena_sedmi_klicu_018.html",
+      "words": 3111,
+      "chars": 19223,
+      "ideas": 142,
+      "role": "chapter",
+      "order": 14,
+      "prev": "zena_sedmi_klicu_017.html",
+      "next": "zena_sedmi_klicu_019.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "2. Úterý",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "3. Středa",
+      "file": "zena_sedmi_klicu_019.html",
+      "words": 1310,
+      "chars": 8332,
+      "ideas": 43,
+      "role": "chapter",
+      "order": 15,
+      "prev": "zena_sedmi_klicu_018.html",
+      "next": "zena_sedmi_klicu_020.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "3. Středa",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "4. Čtvrtek",
+      "file": "zena_sedmi_klicu_020.html",
+      "words": 520,
+      "chars": 3417,
+      "ideas": 24,
+      "role": "chapter",
+      "order": 16,
+      "prev": "zena_sedmi_klicu_019.html",
+      "next": "zena_sedmi_klicu_021.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "4. Čtvrtek",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "5. Pátek",
+      "file": "zena_sedmi_klicu_021.html",
+      "words": 759,
+      "chars": 4879,
+      "ideas": 34,
+      "role": "chapter",
+      "order": 17,
+      "prev": "zena_sedmi_klicu_020.html",
+      "next": "zena_sedmi_klicu_022.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "5. Pátek",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "6. Sobota",
+      "file": "zena_sedmi_klicu_022.html",
+      "words": 956,
+      "chars": 6097,
+      "ideas": 57,
+      "role": "chapter",
+      "order": 18,
+      "prev": "zena_sedmi_klicu_021.html",
+      "next": "zena_sedmi_klicu_023.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "6. Sobota",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "7. Neděle",
+      "file": "zena_sedmi_klicu_023.html",
+      "words": 1087,
+      "chars": 7072,
+      "ideas": 49,
+      "role": "chapter",
+      "order": 19,
+      "prev": "zena_sedmi_klicu_022.html",
+      "next": "zena_sedmi_klicu_024.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "7. Neděle",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Kouzlo",
+      "file": "zena_sedmi_klicu_024.html",
+      "words": 2122,
+      "chars": 13169,
+      "ideas": 118,
+      "role": "chapter",
+      "order": 20,
+      "prev": "zena_sedmi_klicu_023.html",
+      "next": "about.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Kouzlo",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Tiráž",
+      "file": "about.html",
+      "words": 133,
+      "chars": 849,
+      "ideas": 15,
+      "role": "about",
+      "order": null,
+      "prev": "zena_sedmi_klicu_024.html",
+      "next": null,
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Tiráž",
+          "id": null,
+          "children": []
+        }
+      ]
+    }
+  ],
+  "totals": {
+    "all": {
+      "words": 68628,
+      "chars": 426680,
+      "ideas": 2432
+    },
+    "chapters": {
+      "words": 68488,
+      "chars": 425793,
+      "ideas": 2413
+    }
+  }
+}
