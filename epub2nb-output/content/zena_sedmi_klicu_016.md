@@ -373,7 +373,7 @@ Charlotta se měkce a šťastně smála, pohazujíc ohnivými vlasy, a její b
 
 Charlotta přikývla.
 
-„A ty jsi, Charrlottka, klíčnice světa pana Sommelierra[1](./resources/undefined)…“
+„A ty jsi, Charrlottka, klíčnice světa pana Sommelierra[^1]…“
 
 Znovu se tak jiskřivě zasmála. Kapičky Charlottina smíchu se třpytí v přítmí kinosálu, na vínově rudých sedadlech, dotýkají se bílého filmového plátna.
 
@@ -392,7 +392,5 @@ Znovu se tak jiskřivě zasmála. Kapičky Charlottina smíchu se třpytí v p�
 _Všudypřítomnému oku_ se také chce zaráčkovat „jsem zahrradník“.
 
 * * *
-
-_[1](./resources/undefined) Sommelier znamená ve francouzštině klíčník._
-
+[^1]: Sommelier znamená ve francouzštině klíčník.
 </section>

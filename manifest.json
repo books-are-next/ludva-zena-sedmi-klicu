@@ -8,8 +8,8 @@
   "edition": "Beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "ludva-zena-sedmi-klicu-8a192e9",
-  "revision": "8a192e9",
+  "identifier": "ludva-zena-sedmi-klicu-0ba9720",
+  "revision": "0ba9720",
   "readingOrder": [
     "promo.html",
     "zena_sedmi_klicu_005.html",
@@ -35,8 +35,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Tue Sep 27 2022 10:33:53 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1664274833446
+    "date": "Thu Sep 29 2022 21:40:31 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1664487631662
   },
   "documents": [
     {
@@ -575,7 +575,7 @@
       "title": "Klíčnice",
       "file": "zena_sedmi_klicu_016.html",
       "words": 4678,
-      "chars": 29489,
+      "chars": 29490,
       "ideas": 177,
       "role": "chapter",
       "order": 12,
@@ -775,12 +775,12 @@
   "totals": {
     "all": {
       "words": 68628,
-      "chars": 426680,
+      "chars": 426681,
       "ideas": 2432
     },
     "chapters": {
       "words": 68488,
-      "chars": 425793,
+      "chars": 425794,
       "ideas": 2413
     }
   }
