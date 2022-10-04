@@ -392,5 +392,7 @@ Znovu se tak jiskřivě zasmála. Kapičky Charlottina smíchu se třpytí v p�
 _Všudypřítomnému oku_ se také chce zaráčkovat „jsem zahrradník“.
 
 * * *
+
 [^1]: Sommelier znamená ve francouzštině klíčník.
+
 </section>
