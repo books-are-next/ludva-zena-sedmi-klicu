@@ -8,8 +8,8 @@
   "edition": "Beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "ludva-zena-sedmi-klicu-7a397e2",
-  "revision": "7a397e2",
+  "identifier": "ludva-zena-sedmi-klicu-7178745",
+  "revision": "7178745",
   "readingOrder": [
     "promo.html",
     "zena_sedmi_klicu_005.html",
@@ -35,8 +35,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Tue Oct 04 2022 22:58:19 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1664924299486
+    "date": "Fri Oct 07 2022 13:48:43 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1665150523691
   },
   "documents": [
     {
