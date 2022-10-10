@@ -8,8 +8,8 @@
   "edition": "Beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "ludva-zena-sedmi-klicu-7178745",
-  "revision": "7178745",
+  "identifier": "ludva-zena-sedmi-klicu-52d1cc4",
+  "revision": "52d1cc4",
   "readingOrder": [
     "promo.html",
     "zena_sedmi_klicu_005.html",
@@ -35,8 +35,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Fri Oct 07 2022 13:48:43 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1665150523691
+    "date": "Mon Oct 10 2022 15:40:41 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1665416441700
   },
   "documents": [
     {
@@ -755,7 +755,7 @@
       "title": "Tiráž",
       "file": "about.html",
       "words": 131,
-      "chars": 849,
+      "chars": 850,
       "ideas": 13,
       "role": "about",
       "order": null,
@@ -775,7 +775,7 @@
   "totals": {
     "all": {
       "words": 68626,
-      "chars": 426681,
+      "chars": 426682,
       "ideas": 2430
     },
     "chapters": {
