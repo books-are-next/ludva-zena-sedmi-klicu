@@ -13,6 +13,7 @@ meta:
   contentType: prose
   publisherShort: mkp
   edition: Beletrie
+  isbn: 978-80-274-2847-2
 readingOrder:
   - promo.html
   - zena_sedmi_klicu_005.html
